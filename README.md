@@ -10,8 +10,9 @@ I'm Huynh Ngoc Tien, and you can call me Lain.
     height="220"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lain4504&hide=kotlin,java,html,css,Jupyter+Notebook&theme=transparent&layout=donut&role=OWNER,ORGANIZATION_MEMBER"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lain4504&theme=transparent&layout=donut&role=OWNER,ORGANIZATION_MEMBER"
     alt="My Language stats"
     height="220"
   />
 </div>
+
