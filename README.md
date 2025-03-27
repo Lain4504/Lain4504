@@ -67,10 +67,10 @@ I'm Huynh Ngoc Tien, and you can call me Lain.
          alt="unreal" width="40" height="40"/>
   </a>
 
-  <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" 
-         alt="xamarin" width="40" height="40"/>
-  </a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" 
+       alt="dart" width="40" height="40"/>
+</a>
 </p>
 
 
